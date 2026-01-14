@@ -3,22 +3,22 @@ self.__BUILD_MANIFEST = {
     "static/chunks/0e7c005f6af257df.js"
   ],
   "/[...slug]": [
-    "static/chunks/5d433132fbdf21ca.js"
+    "static/chunks/331b1c535930f421.js"
   ],
   "/_error": [
     "static/chunks/5e61c073fc8700e9.js"
   ],
   "/about-us": [
-    "static/chunks/f254cd73fda4c1ef.js"
+    "static/chunks/ea901a437771204c.js"
   ],
   "/cookie-policy": [
-    "static/chunks/4aeff35109c686a1.js"
+    "static/chunks/3989304965e19f92.js"
   ],
   "/privacy-policy": [
-    "static/chunks/43986375c59dff96.js"
+    "static/chunks/a82fc01911ca7bfd.js"
   ],
   "/terms-of-service": [
-    "static/chunks/51292ca09670eb88.js"
+    "static/chunks/d7b24a399a0e5a3c.js"
   ],
   "__rewrites": {
     "afterFiles": [],
